@@ -1,5 +1,6 @@
 ## Bem-vindo(a) ao perfil do Pedro Tescaro 😁
-
+- Desenvolvedor Front-end - HTML, CSS, JavaScript e técnico em Automação Industrial formado no IFSP
+- Atualmente, cursando Análise e Desenvolvimento de Sistemas na FATEC de Ferraz de Vasconcelos
  <div>
    <a href="https://github.com/pedrotescaro">
    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrotescaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
