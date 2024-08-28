@@ -3,8 +3,8 @@
 - Atualmente, cursando Análise e Desenvolvimento de Sistemas na FATEC - Ferraz de Vasconcelos
  <div>
    <a href="https://github.com/pedrotescaro">
-   <img height="220em" width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrotescaro&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true&card_width=320"/>
-   <img height="145em" width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrotescaro&layout=compact&langs_count=8&theme=blue_navy&card_width=320" />
+   <img height="180em" width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrotescaro&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true&card_width=320"/>
+   <img height="147em" width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrotescaro&layout=compact&langs_count=8&theme=blue_navy&card_width=320" />
 </div>
     
 <div style="display: inline_block"><br>
