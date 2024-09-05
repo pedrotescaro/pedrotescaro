@@ -11,7 +11,7 @@ Bem-vindo(a) ao perfil do Pedro Tescaro 😁
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pedrotescaro&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pedrotescaro&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotescaro&theme=radical&langs_count=8&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotescaro&theme=radical&langs_count=10&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pedrotescaro&theme=radical&no-frame=false&no-bg=false&margin-w=4)
