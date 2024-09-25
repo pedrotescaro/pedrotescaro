@@ -1,7 +1,7 @@
 # 💫About Me :
 Bem-vindo(a) ao perfil do Pedro Tescaro 😁
 - Gamedev - Unity e Gamemaker 2 | Desenvolvedor Front-end - HTML, CSS, JavaScript | Técnico em Automação Industrial formado no IFSP
-- Atualmente, cursando o 2° semestre de Análise e Desenvolvimento de Sistemas na FATEC - Ferraz de Vasconcelos
+- Atualmente, cursando o 2° Semestre de Análise e Desenvolvimento de Sistemas na FATEC - Ferraz de Vasconcelos
 
 ## 🌐Socials
 <a href = "mailto:pedroatescaro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tescpedro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrotescaro) 
