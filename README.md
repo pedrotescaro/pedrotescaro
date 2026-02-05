@@ -137,12 +137,11 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrotescaro&show_icons=true&theme=default&locale=pt_BR&include_all_commits=true&count_private=true)](https://github.com/pedrotescaro)
+![Pedro's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=pedrotescaro&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pedrotescaro&theme=gotham&locale=pt_BR)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedrotescaro&theme=tokyonight&hide_border=false&fire=00D4FF&ring=00D4FF&stroke=00D4FF&currStreakNum=00D4FF&sideNums=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=ffffff)
 
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotescaro&layout=compact&langs_count=8&theme=gotham&locale=pt_BR)](https://github.com/pedrotescaro)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrotescaro&layout=compact&theme=tokyonight&hide_border=false&title_color=00D4FF&text_color=ffffff)
 
 </div>
 
