@@ -178,31 +178,7 @@
 
 ---
 
-## 🎨 Interesses & Hobbies
-
-### 🎨 **Design & Criatividade**
 <div align="center">
-
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=7D929E)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-
-</div>
-
-### 🚀 **Ferramentas de Desenvolvimento**
-<div align="center">
-
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![GameMaker Studio](https://img.shields.io/badge/GameMaker%20Studio-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 "A programação é a arte de transformar ideias em realidade digital" 🌟
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pedrotescaro&color=00D4FF&style=for-the-badge&label=Profile+Views)
 
