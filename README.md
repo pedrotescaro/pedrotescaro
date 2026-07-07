@@ -117,19 +117,7 @@
 
 <br clear="left">
 
-<br>
 
-<div align="center">
-<h3>Featured Repositories</h3>
-</div>
-
----
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=pedrotescaro&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
-<br>
 
 <div align="center">
 <h3>Recent Activity</h3>
