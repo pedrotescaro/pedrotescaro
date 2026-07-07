@@ -67,15 +67,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white)
 ![GameMaker](https://img.shields.io/badge/GameMaker-black?style=for-the-badge&logo=gamemaker&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-black?style=for-the-badge&logo=aseprite&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
 
@@ -92,8 +88,9 @@
 ![IBM](https://img.shields.io/badge/IBM_AI_Fundamentals-black?style=for-the-badge&logo=ibm&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_Cloud_Foundations-black?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud_Badges-black?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Alura](https://img.shields.io/badge/Alura_Gemini_Immersion-black?style=for-the-badge&logo=alura&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_Linux_Basics-black?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco CCNA ITN](https://img.shields.io/badge/CCNA:_Introduction_to_Networks-black?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco CCNA SRWE](https://img.shields.io/badge/CCNA:_Switching,_Routing,_&_Wireless-black?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cambridge](https://img.shields.io/badge/Cambridge_English_L1-black?style=for-the-badge&logo=cambridge-university-press&logoColor=white)
 
 </div>
