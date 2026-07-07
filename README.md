@@ -69,6 +69,7 @@
 ![GameMaker](https://img.shields.io/badge/GameMaker-black?style=for-the-badge&logo=gamemaker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white)
+![UX/UI](https://img.shields.io/badge/UX/UI-black?style=for-the-badge&logo=figma&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-black?style=for-the-badge&logo=aseprite&logoColor=white)
