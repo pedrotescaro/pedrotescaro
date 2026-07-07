@@ -82,6 +82,25 @@
 <br>
 
 <div align="center">
+<h3>Certifications</h3>
+</div>
+
+---
+
+<div align="center">
+
+![IBM](https://img.shields.io/badge/IBM_AI_Fundamentals-black?style=for-the-badge&logo=ibm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Cloud_Foundations-black?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud_Badges-black?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Alura](https://img.shields.io/badge/Alura_Gemini_Immersion-black?style=for-the-badge&logo=alura&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Linux_Basics-black?style=for-the-badge&logo=cisco&logoColor=white)
+![Cambridge](https://img.shields.io/badge/Cambridge_English_L1-black?style=for-the-badge&logo=cambridge-university-press&logoColor=white)
+
+</div>
+
+<br>
+
+<div align="center">
 <h3>Statistics</h3>
 </div>
 
@@ -107,5 +126,25 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrotescaro&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
 </p>
+
+<br>
+
+<div align="center">
+<h3>Current Status</h3>
+</div>
+
+---
+
+<div align="center">
+  <br>
+  
+  ![Currently Learning](https://img.shields.io/badge/Currently%20Learning-React%20%7C%20Flutter%20%7C%20Node.js-black?style=for-the-badge&logo=react&logoColor=white)
+  ![Working On](https://img.shields.io/badge/Working%20On-Fullstack%20Apps%20%7C%20Mobile%20Dev-black?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Ask Me About](https://img.shields.io/badge/Ask%20Me%20About-Fullstack%20%7C%20Mobile%20%7C%20Game%20Dev-black?style=for-the-badge&logo=github&logoColor=white)
+  
+  <br><br>
+  
+  **Thanks for visiting! 😊**
+</div>
 
 </div>
