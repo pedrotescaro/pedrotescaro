@@ -138,10 +138,7 @@
   ![Currently Learning](https://img.shields.io/badge/Currently%20Learning-React%20%7C%20Flutter%20%7C%20Node.js-black?style=for-the-badge&logo=react&logoColor=white)
   ![Working On](https://img.shields.io/badge/Working%20On-Fullstack%20Apps%20%7C%20Mobile%20Dev-black?style=for-the-badge&logo=flutter&logoColor=white)
   ![Ask Me About](https://img.shields.io/badge/Ask%20Me%20About-Fullstack%20%7C%20Mobile%20%7C%20Game%20Dev-black?style=for-the-badge&logo=github&logoColor=white)
-  
-  <br><br>
-  
-  **Thanks for visiting! 😊**
+
 </div>
 
 </div>
