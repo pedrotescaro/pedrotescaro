@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-  <img src="banner.png" alt="Banner" width="100%">
+  <img src="4882-emo.gif" alt="Banner" width="100%">
 </p>
 
 <p align="center">
