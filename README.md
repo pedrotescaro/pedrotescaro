@@ -108,7 +108,7 @@
 
 <p align="right">
   <img src="headphone-cat.svg" align="left" width="220" style="margin-right: 20px;">
-  <img src="https://streak-stats.demolab.com?user=pedrotescaro&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrotescaro&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="170" />
   <br><br>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedrotescaro&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="170" />
 </p>
@@ -124,22 +124,5 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrotescaro&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
 </p>
-
-<br>
-
-<div align="center">
-<h3>Current Status</h3>
-</div>
-
----
-
-<div align="center">
-  <br>
-  
-  ![Currently Learning](https://img.shields.io/badge/Currently%20Learning-React%20%7C%20Flutter%20%7C%20Node.js-black?style=for-the-badge&logo=react&logoColor=white)
-  ![Working On](https://img.shields.io/badge/Working%20On-Fullstack%20Apps%20%7C%20Mobile%20Dev-black?style=for-the-badge&logo=flutter&logoColor=white)
-  ![Ask Me About](https://img.shields.io/badge/Ask%20Me%20About-Fullstack%20%7C%20Mobile%20%7C%20Game%20Dev-black?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
 
 </div>
