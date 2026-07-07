@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Mobile+Developer+(Flutter);Desenvolvedor+de+Jogos+Unity;Estudante+de+ADS+na+FATEC"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Mobile+Developer+(Flutter);Unity+Game+Developer;ADS+Student+at+FATEC"/>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrotescaro)
@@ -27,10 +27,10 @@
   <div>
   <p>Fullstack Developer & Mobile Developer</p>
 
-  Olá! Sou o <b>Pedro Tescaro</b>, desenvolvedor Fullstack apaixonado por tecnologia e inovação. 
-  Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na FATEC Ferraz de Vasconcelos e sou Técnico em Automação Industrial pelo IFSP.
+  Hi! I'm <b>Pedro Tescaro</b>, a Fullstack Developer passionate about technology and innovation. 
+  Currently, I am studying Analysis and Systems Development (ADS) at FATEC Ferraz de Vasconcelos, and I hold a technical degree in Industrial Automation from IFSP.
   <br><br>
-  Com experiência no desenvolvimento móvel utilizando <b>Flutter, Dart e Kotlin</b>, e web/fullstack com <b>React, Node.js e TypeScript</b>, também atuo na criação de jogos utilizando <b>Unity e GameMaker Studio 2</b>, além de explorar arquiteturas em nuvem como <b>AWS e Google Cloud</b>.
+  With experience in mobile development using <b>Flutter, Dart, and Kotlin</b>, and web/fullstack with <b>React, Node.js, and TypeScript</b>, I also work on game development using <b>Unity and GameMaker Studio 2</b>, in addition to exploring cloud architectures like <b>AWS and Google Cloud</b>.
   <br><br>
   </div>
 </p>
@@ -91,7 +91,7 @@
 
 <p align="right">
   <img src="headphone-cat.svg" align="left" width="220" style="margin-right: 20px;">
-  <img src="https://streak-stats.demolab.com?user=pedrotescaro&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="170" />
+  <img src="https://streak-stats.demolab.com?user=pedrotescaro&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="170" />
   <br><br>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedrotescaro&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="170" />
 </p>
