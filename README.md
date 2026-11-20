@@ -104,7 +104,7 @@ My focus is fullstack web development with **React, Node.js, TypeScript and Java
 <p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrotescaro&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="170" alt="GitHub streak"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrotescaro&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="170" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrotescaro&card_width=495&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="170" alt="GitHub stats"/>
 </p>
 
 <br clear="left">
